@@ -1,0 +1,28 @@
+[W 2023-10-31 14:46:56,707] Trial 0 failed with parameters: {'lr': 2.9497025173220695e-07, 'n_estimators': 49, 'optimizer': 'RMSprop'} because of the following error: NameError("name 'i' is not defined").
+Traceback (most recent call last):
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/_optimize.py", line 200, in _run_trial
+    value_or_values = func(trial)
+  File "hyperpara.py", line 68, in objective
+    val_loss, val_acc = engine.validation(model = model, dataloader = data.valid_dataloader, loss_fn = loss_fn,
+  File "/jash/Workspace/Food/engine.py", line 150, in validation
+    if i==batch_idx and log_images:
+NameError: name 'i' is not defined
+[W 2023-10-31 14:46:56,707] Trial 0 failed with value None.
+Traceback (most recent call last):
+  File "hyperpara.py", line 110, in <module>
+    study.optimize(objective, n_trials=11)
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/study.py", line 451, in optimize
+    _optimize(
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/_optimize.py", line 66, in _optimize
+    _optimize_sequential(
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/_optimize.py", line 163, in _optimize_sequential
+    frozen_trial = _run_trial(study, func, catch)
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/_optimize.py", line 251, in _run_trial
+    raise func_err
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/_optimize.py", line 200, in _run_trial
+    value_or_values = func(trial)
+  File "hyperpara.py", line 68, in objective
+    val_loss, val_acc = engine.validation(model = model, dataloader = data.valid_dataloader, loss_fn = loss_fn,
+  File "/jash/Workspace/Food/engine.py", line 150, in validation
+    if i==batch_idx and log_images:
+NameError: name 'i' is not defined

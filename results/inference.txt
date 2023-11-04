@@ -1,0 +1,7 @@
+
+Model Loaded.
+============= Diagnostic Run torch.onnx.export version 2.0.1+cu117 =============
+verbose: False, log level: Level.ERROR
+======================= 0 NONE 0 NOTE 0 WARNING 0 ERROR ========================
+
+Predicted: "foie_gras", Actual: "churros"

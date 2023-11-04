@@ -1,0 +1,323 @@
+wandb: Currently logged in as: jashpatel8561 (maa_64). Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /root/.netrc
+[I 2023-10-31 20:08:45,039] A new study created in memory with name: no-name-881464b3-8bd6-47d5-8e36-f91094c9f780
+wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231031_200845-8vkss7as
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run scary-treat-7
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/8vkss7as
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: / 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: - 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.47619
+wandb:          Train Loss 1.52292
+wandb: Validation Accuracy 0.53696
+wandb:     Validation Loss 1.31054
+wandb: 
+wandb: 🚀 View run scary-treat-7 at: https://wandb.ai/maa_64/food-app/runs/8vkss7as
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231031_200845-8vkss7as/logs
+[I 2023-10-31 20:53:40,276] Trial 0 finished with value: 0.5369605422019958 and parameters: {'lr': 3.746494558899465e-06, 'n_estimators': 31, 'optimizer': 'SGD'}. Best is trial 0 with value: 0.5369605422019958.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231031_205340-97cre3xd
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run strange-cape-8
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/97cre3xd
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: / 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.48417
+wandb:          Train Loss 1.49974
+wandb: Validation Accuracy 0.53469
+wandb:     Validation Loss 1.30942
+wandb: 
+wandb: 🚀 View run strange-cape-8 at: https://wandb.ai/maa_64/food-app/runs/97cre3xd
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231031_205340-97cre3xd/logs
+[I 2023-10-31 21:26:05,821] Trial 1 finished with value: 0.5346873998641968 and parameters: {'lr': 2.1962752768229064e-07, 'n_estimators': 31, 'optimizer': 'RMSprop'}. Best is trial 0 with value: 0.5369605422019958.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231031_212605-2ork0ogz
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run mischievous-wendigo-9
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/2ork0ogz
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: / 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.48504
+wandb:          Train Loss 1.49989
+wandb: Validation Accuracy 0.5386
+wandb:     Validation Loss 1.29999
+wandb: 
+wandb: 🚀 View run mischievous-wendigo-9 at: https://wandb.ai/maa_64/food-app/runs/2ork0ogz
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231031_212605-2ork0ogz/logs
+[I 2023-10-31 21:54:42,788] Trial 2 finished with value: 0.5385968685150146 and parameters: {'lr': 4.9567301150128566e-08, 'n_estimators': 43, 'optimizer': 'RMSprop'}. Best is trial 2 with value: 0.5385968685150146.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231031_215442-pegj5p38
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run masked-cape-10
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/pegj5p38
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: / 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: - 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: \ 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.48078
+wandb:          Train Loss 1.49002
+wandb: Validation Accuracy 0.54252
+wandb:     Validation Loss 1.30474
+wandb: 
+wandb: 🚀 View run masked-cape-10 at: https://wandb.ai/maa_64/food-app/runs/pegj5p38
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231031_215442-pegj5p38/logs
+[I 2023-10-31 22:19:18,241] Trial 3 finished with value: 0.5425158739089966 and parameters: {'lr': 3.6384818250623903e-06, 'n_estimators': 33, 'optimizer': 'SGD'}. Best is trial 3 with value: 0.5425158739089966.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231031_221918-gr6ablo3
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run strange-wraith-11
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/gr6ablo3
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: / 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: - 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: \ 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: | 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.48708
+wandb:          Train Loss 1.49079
+wandb: Validation Accuracy 0.54065
+wandb:     Validation Loss 1.29405
+wandb: 
+wandb: 🚀 View run strange-wraith-11 at: https://wandb.ai/maa_64/food-app/runs/gr6ablo3
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231031_221918-gr6ablo3/logs
+[I 2023-10-31 22:43:49,791] Trial 4 finished with value: 0.5406512022018433 and parameters: {'lr': 3.1757764065521707e-07, 'n_estimators': 32, 'optimizer': 'Adam'}. Best is trial 3 with value: 0.5425158739089966.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231031_224349-6h4rftgh
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run occult-banshee-12
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/6h4rftgh
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: / 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: - 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.48493
+wandb:          Train Loss 1.48231
+wandb: Validation Accuracy 0.54034
+wandb:     Validation Loss 1.29421
+wandb: 
+wandb: 🚀 View run occult-banshee-12 at: https://wandb.ai/maa_64/food-app/runs/6h4rftgh
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231031_224349-6h4rftgh/logs
+[I 2023-10-31 23:44:49,930] Trial 5 finished with value: 0.5403411984443665 and parameters: {'lr': 4.079324797271018e-08, 'n_estimators': 32, 'optimizer': 'RMSprop'}. Best is trial 3 with value: 0.5425158739089966.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231031_234449-7nbh63pb
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run occult-gargoyle-13
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/7nbh63pb
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: / 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: - 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.49463
+wandb:          Train Loss 1.45459
+wandb: Validation Accuracy 0.54955
+wandb:     Validation Loss 1.27562
+wandb: 
+wandb: 🚀 View run occult-gargoyle-13 at: https://wandb.ai/maa_64/food-app/runs/7nbh63pb
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231031_234449-7nbh63pb/logs
+[I 2023-11-01 00:13:51,934] Trial 6 finished with value: 0.5495542883872986 and parameters: {'lr': 4.678309863383098e-07, 'n_estimators': 35, 'optimizer': 'RMSprop'}. Best is trial 6 with value: 0.5495542883872986.
+wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231101_001351-jyel0gll
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run dreadful-whisper-14
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/jyel0gll
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: / 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: - 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: \ 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.50997
+wandb:          Train Loss 1.39204
+wandb: Validation Accuracy 0.55506
+wandb:     Validation Loss 1.23738
+wandb: 
+wandb: 🚀 View run dreadful-whisper-14 at: https://wandb.ai/maa_64/food-app/runs/jyel0gll
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231101_001351-jyel0gll/logs
+[I 2023-11-01 00:38:23,845] Trial 7 finished with value: 0.5550567507743835 and parameters: {'lr': 1.7101161575656505e-06, 'n_estimators': 29, 'optimizer': 'Adam'}. Best is trial 7 with value: 0.5550567507743835.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: | Waiting for wandb.init()...wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231101_003823-t9dkdynt
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run mischievous-specter-15
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/t9dkdynt
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: / 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: - 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: \ 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: | 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.50968
+wandb:          Train Loss 1.38178
+wandb: Validation Accuracy 0.55892
+wandb:     Validation Loss 1.22877
+wandb: 
+wandb: 🚀 View run mischievous-specter-15 at: https://wandb.ai/maa_64/food-app/runs/t9dkdynt
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231101_003823-t9dkdynt/logs
+[I 2023-11-01 01:18:49,091] Trial 8 finished with value: 0.5589190125465393 and parameters: {'lr': 2.807500616871119e-07, 'n_estimators': 35, 'optimizer': 'SGD'}. Best is trial 8 with value: 0.5589190125465393.
+wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231101_011849-ota77xrr
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run spooky-specter-16
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/ota77xrr
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: / 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: - 0.006 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: \ 0.006 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.52209
+wandb:          Train Loss 1.34973
+wandb: Validation Accuracy 0.56162
+wandb:     Validation Loss 1.2041
+wandb: 
+wandb: 🚀 View run spooky-specter-16 at: https://wandb.ai/maa_64/food-app/runs/ota77xrr
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231101_011849-ota77xrr/logs
+[I 2023-11-01 01:46:58,059] Trial 9 finished with value: 0.5616196393966675 and parameters: {'lr': 1.0143024563093913e-06, 'n_estimators': 33, 'optimizer': 'Adam'}. Best is trial 9 with value: 0.5616196393966675.
+wandb: - Waiting for wandb.init()...wandb: \ Waiting for wandb.init()...wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /jash/Workspace/Food/wandb/run-20231101_014658-mj672tzu
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run fearful-candle-17
+wandb: ⭐️ View project at https://wandb.ai/maa_64/food-app
+wandb: 🚀 View run at https://wandb.ai/maa_64/food-app/runs/mj672tzu
+wandb: Waiting for W&B process to finish... (success).
+wandb: - 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: \ 0.005 MB of 0.005 MB uploaded (0.000 MB deduped)wandb: | 0.005 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: / 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: - 0.014 MB of 0.014 MB uploaded (0.000 MB deduped)wandb: 
+wandb: Run history:
+wandb:      Train Accuracy ▁
+wandb:          Train Loss ▁
+wandb: Validation Accuracy ▁
+wandb:     Validation Loss ▁
+wandb: 
+wandb: Run summary:
+wandb:      Train Accuracy 0.52938
+wandb:          Train Loss 1.31677
+wandb: Validation Accuracy 0.56583
+wandb:     Validation Loss 1.20021
+wandb: 
+wandb: 🚀 View run fearful-candle-17 at: https://wandb.ai/maa_64/food-app/runs/mj672tzu
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20231101_014658-mj672tzu/logs
+[I 2023-11-01 02:11:05,590] Trial 10 finished with value: 0.5658254027366638 and parameters: {'lr': 9.441552500921141e-07, 'n_estimators': 25, 'optimizer': 'Adam'}. Best is trial 10 with value: 0.5658254027366638.
+[LOG]: Login Succesfull.
+
+Model Loaded.
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Saving Model At: save_model/best_model.pth
+
+Study statistics: 
+  Number of finished trials:  11
+  Number of pruned trials:  0
+  Number of complete trials:  11
+Best trial:
+  Value:  0.5658254027366638
+  Params: 
+    lr: 9.441552500921141e-07
+    n_estimators: 25
+    optimizer: Adam

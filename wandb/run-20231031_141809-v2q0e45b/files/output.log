@@ -1,0 +1,24 @@
+[W 2023-10-31 14:20:40,518] Trial 0 failed with parameters: {'lr': 1.0615227326434047e-06, 'n_estimators': 49, 'optimizer': 'Adam'} because of the following error: TypeError("test_loop() got an unexpected keyword argument 'log_images'").
+Traceback (most recent call last):
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/_optimize.py", line 200, in _run_trial
+    value_or_values = func(trial)
+  File "hyperpara.py", line 68, in objective
+    val_loss, val_acc = engine.test_loop(model = model, dataloader = data.valid_dataloader, loss_fn = loss_fn,
+TypeError: test_loop() got an unexpected keyword argument 'log_images'
+[W 2023-10-31 14:20:40,519] Trial 0 failed with value None.
+Traceback (most recent call last):
+  File "hyperpara.py", line 110, in <module>
+    study.optimize(objective, n_trials=11)
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/study.py", line 451, in optimize
+    _optimize(
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/_optimize.py", line 66, in _optimize
+    _optimize_sequential(
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/_optimize.py", line 163, in _optimize_sequential
+    frozen_trial = _run_trial(study, func, catch)
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/_optimize.py", line 251, in _run_trial
+    raise func_err
+  File "/opt/conda/envs/env/lib/python3.8/site-packages/optuna/study/_optimize.py", line 200, in _run_trial
+    value_or_values = func(trial)
+  File "hyperpara.py", line 68, in objective
+    val_loss, val_acc = engine.test_loop(model = model, dataloader = data.valid_dataloader, loss_fn = loss_fn,
+TypeError: test_loop() got an unexpected keyword argument 'log_images'
