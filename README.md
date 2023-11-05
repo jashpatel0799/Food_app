@@ -14,7 +14,11 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 
 LIVE DEPLOYMENT AT: https://huggingface.co/spaces/mrdbourke/foodvision_big
+
 ONNX and ONNXruntime : use for model optimization
+
 OPTUNA: for hyperparameter tuning
+
 WANDB: for exprement track
+
 GRADIO and HUGGING FACE: for model deployment 
