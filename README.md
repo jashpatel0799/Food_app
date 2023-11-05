@@ -13,7 +13,7 @@ license: mit
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 
-LIVE DEPLOYMENT AT: https://huggingface.co/spaces/mrdbourke/foodvision_big
+LIVE DEPLOYMENT AT: https://huggingface.co/spaces/Jash-RA/food-app
 
 ONNX and ONNXruntime : use for model optimization
 
